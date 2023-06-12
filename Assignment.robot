@@ -5,8 +5,8 @@ Suite Setup    เปิดเว็บทดสอบ
 Suite Teardown    ปิดหน้าเว็บ
 Test Setup        Log  กำลังเริ่มทำการทดสอบ
 Test Teardown     Reload Page
-Resource    pages/page.robot
-Resource  variables/variables.robot
+Resource    page.robot
+Resource  variables.robot
 
 *** Test Cases ***
  TC_001 Login ใส่ Username & Password ถูกทั้งสองอย่าง
