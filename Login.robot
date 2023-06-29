@@ -5,7 +5,7 @@ Suite Setup    เปิดเว็บทดสอบ
 Suite Teardown    ปิดหน้าเว็บ
 Test Setup        Log  กำลังเริ่มทำการทดสอบ
 Test Teardown     Reload Page
-Resource    page.robot
+Resource    keyword.robot
 Resource  variables.robot
 
 *** Test Cases ***
